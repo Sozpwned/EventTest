@@ -32,6 +32,7 @@ public class Main {
             mainHandler.onUpdate();
             obj.onUpdate();
 
+            System.out.println("Hello");
         }
     }
 
