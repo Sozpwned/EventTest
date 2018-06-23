@@ -29,9 +29,6 @@ public class Main {
             if (i == 6) {
                 event.triggerEvent();
             }
-            if (i%2==0) {
-                sEvent.triggerEvent();
-            }
             mainHandler.onUpdate();
             obj.onUpdate();
 
